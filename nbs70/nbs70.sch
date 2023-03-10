@@ -1,4 +1,1834 @@
-EESchema Schematic File Version 2
-EELAYER 25 0
+EESchema Schematic File Version 4
+LIBS:nbs70-cache
+EELAYER 30 0
 EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640AF46F
+P -6600 -350
+F 0 "D?" H -6256 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -6256 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -6550 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -6500 -725 50  0001 L TNN
+	1    -6600 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B126D
+P -5750 -350
+F 0 "D?" H -5406 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -5406 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -5700 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -5650 -725 50  0001 L TNN
+	1    -5750 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B2614
+P -4900 -350
+F 0 "D?" H -4556 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -4556 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4850 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -4800 -725 50  0001 L TNN
+	1    -4900 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B2E1E
+P -4050 -350
+F 0 "D?" H -3706 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -3706 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4000 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3950 -725 50  0001 L TNN
+	1    -4050 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B342E
+P -3200 -350
+F 0 "D?" H -2856 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -2856 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -3150 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3100 -725 50  0001 L TNN
+	1    -3200 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B4720
+P -2350 -350
+F 0 "D?" H -2006 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -2006 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -2300 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -2250 -725 50  0001 L TNN
+	1    -2350 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B593B
+P -1500 -350
+F 0 "D?" H -1156 -304 50  0000 L CNN
+F 1 "SK6812MINI" H -1156 -395 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -1450 -650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -1400 -725 50  0001 L TNN
+	1    -1500 -350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B6366
+P -6600 500
+F 0 "D?" H -6256 546 50  0000 L CNN
+F 1 "SK6812MINI" H -6256 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -6550 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -6500 125 50  0001 L TNN
+	1    -6600 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B6CBF
+P -5750 500
+F 0 "D?" H -5406 546 50  0000 L CNN
+F 1 "SK6812MINI" H -5406 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -5700 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -5650 125 50  0001 L TNN
+	1    -5750 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B7910
+P -4900 500
+F 0 "D?" H -4556 546 50  0000 L CNN
+F 1 "SK6812MINI" H -4556 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4850 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -4800 125 50  0001 L TNN
+	1    -4900 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B8123
+P -4050 500
+F 0 "D?" H -3706 546 50  0000 L CNN
+F 1 "SK6812MINI" H -3706 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4000 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3950 125 50  0001 L TNN
+	1    -4050 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640B96E6
+P -3200 500
+F 0 "D?" H -2856 546 50  0000 L CNN
+F 1 "SK6812MINI" H -2856 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -3150 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3100 125 50  0001 L TNN
+	1    -3200 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640BA162
+P -2350 500
+F 0 "D?" H -2006 546 50  0000 L CNN
+F 1 "SK6812MINI" H -2006 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -2300 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -2250 125 50  0001 L TNN
+	1    -2350 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 640BAFFD
+P -1500 500
+F 0 "D?" H -1156 546 50  0000 L CNN
+F 1 "SK6812MINI" H -1156 455 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -1450 200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -1400 125 50  0001 L TNN
+	1    -1500 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410AD85
+P -6600 1300
+F 0 "D?" H -6256 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -6256 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -6550 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -6500 925 50  0001 L TNN
+	1    -6600 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410AD8B
+P -5750 1300
+F 0 "D?" H -5406 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -5406 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -5700 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -5650 925 50  0001 L TNN
+	1    -5750 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410AD91
+P -4900 1300
+F 0 "D?" H -4556 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -4556 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4850 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -4800 925 50  0001 L TNN
+	1    -4900 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410AD97
+P -4050 1300
+F 0 "D?" H -3706 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -3706 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4000 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3950 925 50  0001 L TNN
+	1    -4050 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410AD9D
+P -3200 1300
+F 0 "D?" H -2856 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -2856 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -3150 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3100 925 50  0001 L TNN
+	1    -3200 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADA3
+P -2350 1300
+F 0 "D?" H -2006 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -2006 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -2300 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -2250 925 50  0001 L TNN
+	1    -2350 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADA9
+P -1500 1300
+F 0 "D?" H -1156 1346 50  0000 L CNN
+F 1 "SK6812MINI" H -1156 1255 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -1450 1000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -1400 925 50  0001 L TNN
+	1    -1500 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADAF
+P -6600 2150
+F 0 "D?" H -6256 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -6256 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -6550 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -6500 1775 50  0001 L TNN
+	1    -6600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADB5
+P -5750 2150
+F 0 "D?" H -5406 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -5406 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -5700 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -5650 1775 50  0001 L TNN
+	1    -5750 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADBB
+P -4900 2150
+F 0 "D?" H -4556 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -4556 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4850 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -4800 1775 50  0001 L TNN
+	1    -4900 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADC1
+P -4050 2150
+F 0 "D?" H -3706 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -3706 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4000 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3950 1775 50  0001 L TNN
+	1    -4050 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADC7
+P -3200 2150
+F 0 "D?" H -2856 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -2856 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -3150 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3100 1775 50  0001 L TNN
+	1    -3200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADCD
+P -2350 2150
+F 0 "D?" H -2006 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -2006 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -2300 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -2250 1775 50  0001 L TNN
+	1    -2350 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 6410ADD3
+P -1500 2150
+F 0 "D?" H -1156 2196 50  0000 L CNN
+F 1 "SK6812MINI" H -1156 2105 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -1450 1850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -1400 1775 50  0001 L TNN
+	1    -1500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FC8
+P -6600 3000
+F 0 "D?" H -6256 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -6256 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -6550 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -6500 2625 50  0001 L TNN
+	1    -6600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FCE
+P -5750 3000
+F 0 "D?" H -5406 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -5406 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -5700 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -5650 2625 50  0001 L TNN
+	1    -5750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FD4
+P -4900 3000
+F 0 "D?" H -4556 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -4556 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4850 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -4800 2625 50  0001 L TNN
+	1    -4900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FDA
+P -4050 3000
+F 0 "D?" H -3706 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -3706 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -4000 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3950 2625 50  0001 L TNN
+	1    -4050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FE0
+P -3200 3000
+F 0 "D?" H -2856 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -2856 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -3150 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -3100 2625 50  0001 L TNN
+	1    -3200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FE6
+P -2350 3000
+F 0 "D?" H -2006 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -2006 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -2300 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -2250 2625 50  0001 L TNN
+	1    -2350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D?
+U 1 1 64117FEC
+P -1500 3000
+F 0 "D?" H -1156 3046 50  0000 L CNN
+F 1 "SK6812MINI" H -1156 2955 50  0000 L CNN
+F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H -1450 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H -1400 2625 50  0001 L TNN
+	1    -1500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 64118DEB
+P -7400 -400
+F 0 "C?" H -7312 -354 50  0000 L CNN
+F 1 "100uF" H -7312 -445 50  0000 L CNN
+F 2 "" H -7400 -400 50  0001 C CNN
+F 3 "~" H -7400 -400 50  0001 C CNN
+	1    -7400 -400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 6414212A
+P -7450 500
+F 0 "C?" H -7362 546 50  0000 L CNN
+F 1 "100uF" H -7362 455 50  0000 L CNN
+F 2 "" H -7450 500 50  0001 C CNN
+F 3 "~" H -7450 500 50  0001 C CNN
+	1    -7450 500 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 64142C0A
+P -7450 1300
+F 0 "C?" H -7362 1346 50  0000 L CNN
+F 1 "100uF" H -7362 1255 50  0000 L CNN
+F 2 "" H -7450 1300 50  0001 C CNN
+F 3 "~" H -7450 1300 50  0001 C CNN
+	1    -7450 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 641434BF
+P -7450 2150
+F 0 "C?" H -7362 2196 50  0000 L CNN
+F 1 "100uF" H -7362 2105 50  0000 L CNN
+F 2 "" H -7450 2150 50  0001 C CNN
+F 3 "~" H -7450 2150 50  0001 C CNN
+	1    -7450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 64143BD5
+P -7450 3000
+F 0 "C?" H -7362 3046 50  0000 L CNN
+F 1 "100uF" H -7362 2955 50  0000 L CNN
+F 2 "" H -7450 3000 50  0001 C CNN
+F 3 "~" H -7450 3000 50  0001 C CNN
+	1    -7450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6418D83F
+P -7900 -500
+F 0 "#PWR?" H -7900 -650 50  0001 C CNN
+F 1 "+5V" H -7885 -327 50  0000 C CNN
+F 2 "" H -7900 -500 50  0001 C CNN
+F 3 "" H -7900 -500 50  0001 C CNN
+	1    -7900 -500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	-7600 -500 -7900 -500
+Wire Wire Line
+	-7600 -500 -7400 -500
+Connection ~ -7600 -500
+Wire Wire Line
+	-7600 2900 -7450 2900
+Wire Wire Line
+	-7600 -500 -7600 400 
+Wire Wire Line
+	-7450 2050 -7600 2050
+Connection ~ -7600 2050
+Wire Wire Line
+	-7600 2050 -7600 2900
+Wire Wire Line
+	-7450 1200 -7600 1200
+Connection ~ -7600 1200
+Wire Wire Line
+	-7450 400  -7600 400 
+Connection ~ -7600 400 
+Wire Wire Line
+	-6600 -650 -7400 -650
+Wire Wire Line
+	-7400 -650 -7400 -500
+Connection ~ -7400 -500
+Wire Wire Line
+	-6600 -650 -5750 -650
+Connection ~ -6600 -650
+Wire Wire Line
+	-5750 -650 -4900 -650
+Wire Wire Line
+	-4900 -650 -4050 -650
+Connection ~ -5750 -650
+Connection ~ -4900 -650
+Wire Wire Line
+	-4050 -650 -3200 -650
+Connection ~ -4050 -650
+Wire Wire Line
+	-3200 -650 -2350 -650
+Connection ~ -3200 -650
+Wire Wire Line
+	-2350 -650 -1500 -650
+Connection ~ -2350 -650
+Wire Wire Line
+	-7450 400  -7450 200 
+Wire Wire Line
+	-7450 200  -6600 200 
+Connection ~ -7450 400 
+Wire Wire Line
+	-6600 200  -5750 200 
+Connection ~ -6600 200 
+Wire Wire Line
+	-5750 200  -4900 200 
+Connection ~ -5750 200 
+Wire Wire Line
+	-4900 200  -4050 200 
+Connection ~ -4900 200 
+Wire Wire Line
+	-4050 200  -3200 200 
+Connection ~ -4050 200 
+Wire Wire Line
+	-3200 200  -2350 200 
+Connection ~ -3200 200 
+Wire Wire Line
+	-2350 200  -1500 200 
+Connection ~ -2350 200 
+Wire Wire Line
+	-1500 -50  -2350 -50 
+Wire Wire Line
+	-2350 -50  -3200 -50 
+Connection ~ -2350 -50 
+Wire Wire Line
+	-4050 -50  -3200 -50 
+Connection ~ -3200 -50 
+Wire Wire Line
+	-4050 -50  -4900 -50 
+Connection ~ -4050 -50 
+Wire Wire Line
+	-4900 -50  -5750 -50 
+Connection ~ -4900 -50 
+Wire Wire Line
+	-5750 -50  -6600 -50 
+Connection ~ -5750 -50 
+Wire Wire Line
+	-7400 -50  -7400 -300
+Wire Wire Line
+	-7250 -50  -7250 600 
+Wire Wire Line
+	-7250 600  -7450 600 
+Wire Wire Line
+	-7250 3100 -7450 3100
+Connection ~ -7250 600 
+Wire Wire Line
+	-7450 2250 -7250 2250
+Connection ~ -7250 2250
+Wire Wire Line
+	-7450 1400 -7250 1400
+Connection ~ -7250 1400
+Wire Wire Line
+	-6600 1600 -5750 1600
+Wire Wire Line
+	-5750 1600 -4900 1600
+Connection ~ -5750 1600
+Wire Wire Line
+	-4050 1600 -4900 1600
+Connection ~ -4900 1600
+Wire Wire Line
+	-4050 1600 -3200 1600
+Wire Wire Line
+	-3200 1600 -2350 1600
+Connection ~ -4050 1600
+Connection ~ -3200 1600
+Wire Wire Line
+	-2350 1600 -1500 1600
+Connection ~ -2350 1600
+Wire Wire Line
+	-6600 800  -5750 800 
+Wire Wire Line
+	-5750 800  -4900 800 
+Connection ~ -5750 800 
+Wire Wire Line
+	-4900 800  -4050 800 
+Connection ~ -4900 800 
+Wire Wire Line
+	-4050 800  -3200 800 
+Connection ~ -4050 800 
+Wire Wire Line
+	-3200 800  -2350 800 
+Connection ~ -3200 800 
+Wire Wire Line
+	-2350 800  -1500 800 
+Connection ~ -2350 800 
+Wire Wire Line
+	-6600 2450 -5750 2450
+Wire Wire Line
+	-5750 2450 -4900 2450
+Wire Wire Line
+	-4900 2450 -4050 2450
+Wire Wire Line
+	-4050 2450 -3200 2450
+Connection ~ -5750 2450
+Connection ~ -4900 2450
+Connection ~ -4050 2450
+Wire Wire Line
+	-3200 2400 -3200 2450
+Connection ~ -3200 2450
+Wire Wire Line
+	-2350 2450 -3200 2450
+Wire Wire Line
+	-2350 2450 -1500 2450
+Connection ~ -2350 2450
+Wire Wire Line
+	-6600 3300 -5750 3300
+Wire Wire Line
+	-5750 3300 -4900 3300
+Connection ~ -5750 3300
+Wire Wire Line
+	-4900 3300 -4050 3300
+Wire Wire Line
+	-4050 3300 -3200 3300
+Connection ~ -4900 3300
+Connection ~ -4050 3300
+Wire Wire Line
+	-3200 3300 -2350 3300
+Connection ~ -3200 3300
+Wire Wire Line
+	-2350 3300 -1500 3300
+Connection ~ -2350 3300
+Wire Wire Line
+	-1500 2700 -2350 2700
+Wire Wire Line
+	-2350 2700 -3200 2700
+Connection ~ -2350 2700
+Wire Wire Line
+	-3200 2700 -4050 2700
+Wire Wire Line
+	-4050 2700 -4900 2700
+Connection ~ -3200 2700
+Connection ~ -4050 2700
+Wire Wire Line
+	-4900 2700 -5750 2700
+Connection ~ -4900 2700
+Wire Wire Line
+	-5750 2700 -6600 2700
+Connection ~ -5750 2700
+Wire Wire Line
+	-6600 2700 -7450 2700
+Wire Wire Line
+	-7450 2700 -7450 2900
+Connection ~ -6600 2700
+Connection ~ -7450 2900
+Wire Wire Line
+	-1500 1850 -2350 1850
+Wire Wire Line
+	-2350 1850 -3200 1850
+Connection ~ -2350 1850
+Wire Wire Line
+	-3200 1850 -4050 1850
+Connection ~ -3200 1850
+Wire Wire Line
+	-4050 1850 -4900 1850
+Connection ~ -4050 1850
+Wire Wire Line
+	-4900 1850 -5750 1850
+Connection ~ -4900 1850
+Connection ~ -5750 1850
+Wire Wire Line
+	-2350 1000 -1500 1000
+Wire Wire Line
+	-2350 1000 -3200 1000
+Connection ~ -2350 1000
+Wire Wire Line
+	-3200 1000 -4050 1000
+Connection ~ -3200 1000
+Wire Wire Line
+	-4050 1000 -4900 1000
+Connection ~ -4050 1000
+Wire Wire Line
+	-4900 1000 -5750 1000
+Connection ~ -4900 1000
+Wire Wire Line
+	-5750 1000 -6600 1000
+Connection ~ -5750 1000
+Wire Wire Line
+	-7600 400  -7600 1200
+Wire Wire Line
+	-6600 1000 -7450 1000
+Wire Wire Line
+	-7450 1000 -7450 1200
+Connection ~ -6600 1000
+Connection ~ -7450 1200
+Wire Wire Line
+	-7600 1200 -7600 2050
+Wire Wire Line
+	-6600 1850 -5750 1850
+Wire Wire Line
+	-7450 2050 -7450 1850
+Wire Wire Line
+	-7450 1850 -6600 1850
+Connection ~ -7450 2050
+Connection ~ -6600 1850
+Wire Wire Line
+	-7250 600  -7250 1400
+Wire Wire Line
+	-7450 600  -7450 800 
+Wire Wire Line
+	-7450 800  -6600 800 
+Connection ~ -7450 600 
+Connection ~ -6600 800 
+Wire Wire Line
+	-7250 1400 -7250 2250
+Wire Wire Line
+	-7450 1400 -7450 1600
+Wire Wire Line
+	-7450 1600 -6600 1600
+Connection ~ -7450 1400
+Connection ~ -6600 1600
+Wire Wire Line
+	-7250 2250 -7250 3100
+Wire Wire Line
+	-7450 2250 -7450 2450
+Wire Wire Line
+	-7450 2450 -6600 2450
+Connection ~ -7450 2250
+Connection ~ -6600 2450
+Wire Wire Line
+	-7450 3100 -7450 3300
+Connection ~ -7450 3100
+Connection ~ -6600 3300
+Wire Wire Line
+	-7450 3300 -6600 3300
+Wire Wire Line
+	-7400 -50  -7250 -50 
+Connection ~ -6600 -50 
+Connection ~ -7250 -50 
+Wire Wire Line
+	-7250 -50  -6600 -50 
+$Comp
+L power:GND #PWR?
+U 1 1 6425896E
+P -7450 3300
+F 0 "#PWR?" H -7450 3050 50  0001 C CNN
+F 1 "GND" H -7445 3127 50  0000 C CNN
+F 2 "" H -7450 3300 50  0001 C CNN
+F 3 "" H -7450 3300 50  0001 C CNN
+	1    -7450 3300
+	1    0    0    -1  
+$EndComp
+Connection ~ -7450 3300
+Wire Wire Line
+	-6300 3000 -6050 3000
+Wire Wire Line
+	-5450 3000 -5200 3000
+Wire Wire Line
+	-4600 3000 -4350 3000
+Wire Wire Line
+	-3750 3000 -3500 3000
+Wire Wire Line
+	-2900 3000 -2650 3000
+Wire Wire Line
+	-2050 3000 -1800 3000
+Wire Wire Line
+	-6300 -350 -6050 -350
+Wire Wire Line
+	-5450 -350 -5200 -350
+Wire Wire Line
+	-4600 -350 -4350 -350
+Wire Wire Line
+	-3750 -350 -3500 -350
+Wire Wire Line
+	-2900 -350 -2650 -350
+Wire Wire Line
+	-2050 -350 -1800 -350
+Wire Wire Line
+	-6300 500  -6050 500 
+Wire Wire Line
+	-5450 500  -5200 500 
+Wire Wire Line
+	-4600 500  -4350 500 
+Wire Wire Line
+	-3750 500  -3500 500 
+Wire Wire Line
+	-2900 500  -2650 500 
+Wire Wire Line
+	-2050 500  -1800 500 
+Wire Wire Line
+	-6300 1300 -6050 1300
+Wire Wire Line
+	-5450 1300 -5200 1300
+Wire Wire Line
+	-4600 1300 -4350 1300
+Wire Wire Line
+	-3750 1300 -3500 1300
+Wire Wire Line
+	-2900 1300 -2650 1300
+Wire Wire Line
+	-2050 1300 -1800 1300
+Wire Wire Line
+	-6300 2150 -6050 2150
+Wire Wire Line
+	-5450 2150 -5200 2150
+Wire Wire Line
+	-4600 2150 -4350 2150
+Wire Wire Line
+	-3750 2150 -3500 2150
+Wire Wire Line
+	-2900 2150 -2650 2150
+Wire Wire Line
+	-2050 2150 -1800 2150
+Text GLabel -6900 -350 0    50   Input ~ 0
+LED0
+Text GLabel -6900 500  0    50   Input ~ 0
+LED1
+Text GLabel -6900 1300 0    50   Input ~ 0
+LED2
+Text GLabel -6900 2150 0    50   Input ~ 0
+LED3
+Text GLabel -6900 3000 0    50   Input ~ 0
+LED4
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C2CEF
+P -6550 4000
+F 0 "MX?" H -6517 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -6517 4149 20  0000 C CNN
+F 2 "" H -7175 3975 60  0001 C CNN
+F 3 "" H -7175 3975 60  0001 C CNN
+	1    -6550 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C4713
+P -5750 4000
+F 0 "MX?" H -5717 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -5717 4149 20  0000 C CNN
+F 2 "" H -6375 3975 60  0001 C CNN
+F 3 "" H -6375 3975 60  0001 C CNN
+	1    -5750 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C62A8
+P -4850 4000
+F 0 "MX?" H -4817 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -4817 4149 20  0000 C CNN
+F 2 "" H -5475 3975 60  0001 C CNN
+F 3 "" H -5475 3975 60  0001 C CNN
+	1    -4850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C7576
+P -4000 4000
+F 0 "MX?" H -3967 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -3967 4149 20  0000 C CNN
+F 2 "" H -4625 3975 60  0001 C CNN
+F 3 "" H -4625 3975 60  0001 C CNN
+	1    -4000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C7F7C
+P -3150 4000
+F 0 "MX?" H -3117 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -3117 4149 20  0000 C CNN
+F 2 "" H -3775 3975 60  0001 C CNN
+F 3 "" H -3775 3975 60  0001 C CNN
+	1    -3150 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C8A54
+P -2300 4000
+F 0 "MX?" H -2267 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -2267 4149 20  0000 C CNN
+F 2 "" H -2925 3975 60  0001 C CNN
+F 3 "" H -2925 3975 60  0001 C CNN
+	1    -2300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 640C9310
+P -1450 4000
+F 0 "MX?" H -1417 4223 60  0000 C CNN
+F 1 "MX-NoLED" H -1417 4149 20  0000 C CNN
+F 2 "" H -2075 3975 60  0001 C CNN
+F 3 "" H -2075 3975 60  0001 C CNN
+	1    -1450 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 640FFA58
+P -6200 4150
+F 0 "D?" H -6200 3945 50  0000 C CNN
+F 1 "D_Small" H -6200 4036 50  0000 C CNN
+F 2 "" V -6200 4150 50  0001 C CNN
+F 3 "~" V -6200 4150 50  0001 C CNN
+	1    -6200 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64101377
+P -5350 4150
+F 0 "D?" H -5350 3945 50  0000 C CNN
+F 1 "D_Small" H -5350 4036 50  0000 C CNN
+F 2 "" V -5350 4150 50  0001 C CNN
+F 3 "~" V -5350 4150 50  0001 C CNN
+	1    -5350 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64101DB9
+P -4500 4150
+F 0 "D?" H -4500 3945 50  0000 C CNN
+F 1 "D_Small" H -4500 4036 50  0000 C CNN
+F 2 "" V -4500 4150 50  0001 C CNN
+F 3 "~" V -4500 4150 50  0001 C CNN
+	1    -4500 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64102A9E
+P -3650 4150
+F 0 "D?" H -3650 3945 50  0000 C CNN
+F 1 "D_Small" H -3650 4036 50  0000 C CNN
+F 2 "" V -3650 4150 50  0001 C CNN
+F 3 "~" V -3650 4150 50  0001 C CNN
+	1    -3650 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64103788
+P -2800 4150
+F 0 "D?" H -2800 3945 50  0000 C CNN
+F 1 "D_Small" H -2800 4036 50  0000 C CNN
+F 2 "" V -2800 4150 50  0001 C CNN
+F 3 "~" V -2800 4150 50  0001 C CNN
+	1    -2800 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6410427E
+P -1950 4150
+F 0 "D?" H -1950 3945 50  0000 C CNN
+F 1 "D_Small" H -1950 4036 50  0000 C CNN
+F 2 "" V -1950 4150 50  0001 C CNN
+F 3 "~" V -1950 4150 50  0001 C CNN
+	1    -1950 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64104CD4
+P -1100 4150
+F 0 "D?" H -1100 3945 50  0000 C CNN
+F 1 "D_Small" H -1100 4036 50  0000 C CNN
+F 2 "" V -1100 4150 50  0001 C CNN
+F 3 "~" V -1100 4150 50  0001 C CNN
+	1    -1100 4150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	-6600 4150 -6300 4150
+Wire Wire Line
+	-6100 4150 -5800 4150
+Wire Wire Line
+	-5250 4150 -4900 4150
+Wire Wire Line
+	-4400 4150 -4050 4150
+Wire Wire Line
+	-3550 4150 -3200 4150
+Wire Wire Line
+	-2700 4150 -2350 4150
+Wire Wire Line
+	-1850 4150 -1500 4150
+Connection ~ -5800 4150
+Wire Wire Line
+	-5800 4150 -5450 4150
+Connection ~ -4900 4150
+Wire Wire Line
+	-4900 4150 -4600 4150
+Connection ~ -4050 4150
+Wire Wire Line
+	-4050 4150 -3750 4150
+Connection ~ -3200 4150
+Wire Wire Line
+	-3200 4150 -2900 4150
+Connection ~ -2350 4150
+Wire Wire Line
+	-2350 4150 -2050 4150
+Connection ~ -1500 4150
+Wire Wire Line
+	-1500 4150 -1200 4150
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118F93
+P -6550 4500
+F 0 "MX?" H -6517 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -6517 4649 20  0000 C CNN
+F 2 "" H -7175 4475 60  0001 C CNN
+F 3 "" H -7175 4475 60  0001 C CNN
+	1    -6550 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118F99
+P -5750 4500
+F 0 "MX?" H -5717 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -5717 4649 20  0000 C CNN
+F 2 "" H -6375 4475 60  0001 C CNN
+F 3 "" H -6375 4475 60  0001 C CNN
+	1    -5750 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118F9F
+P -4850 4500
+F 0 "MX?" H -4817 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -4817 4649 20  0000 C CNN
+F 2 "" H -5475 4475 60  0001 C CNN
+F 3 "" H -5475 4475 60  0001 C CNN
+	1    -4850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118FA5
+P -4000 4500
+F 0 "MX?" H -3967 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -3967 4649 20  0000 C CNN
+F 2 "" H -4625 4475 60  0001 C CNN
+F 3 "" H -4625 4475 60  0001 C CNN
+	1    -4000 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118FAB
+P -3150 4500
+F 0 "MX?" H -3117 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -3117 4649 20  0000 C CNN
+F 2 "" H -3775 4475 60  0001 C CNN
+F 3 "" H -3775 4475 60  0001 C CNN
+	1    -3150 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118FB1
+P -2300 4500
+F 0 "MX?" H -2267 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -2267 4649 20  0000 C CNN
+F 2 "" H -2925 4475 60  0001 C CNN
+F 3 "" H -2925 4475 60  0001 C CNN
+	1    -2300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64118FB7
+P -1450 4500
+F 0 "MX?" H -1417 4723 60  0000 C CNN
+F 1 "MX-NoLED" H -1417 4649 20  0000 C CNN
+F 2 "" H -2075 4475 60  0001 C CNN
+F 3 "" H -2075 4475 60  0001 C CNN
+	1    -1450 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FBD
+P -6200 4650
+F 0 "D?" H -6200 4445 50  0000 C CNN
+F 1 "D_Small" H -6200 4536 50  0000 C CNN
+F 2 "" V -6200 4650 50  0001 C CNN
+F 3 "~" V -6200 4650 50  0001 C CNN
+	1    -6200 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FC3
+P -5350 4650
+F 0 "D?" H -5350 4445 50  0000 C CNN
+F 1 "D_Small" H -5350 4536 50  0000 C CNN
+F 2 "" V -5350 4650 50  0001 C CNN
+F 3 "~" V -5350 4650 50  0001 C CNN
+	1    -5350 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FC9
+P -4500 4650
+F 0 "D?" H -4500 4445 50  0000 C CNN
+F 1 "D_Small" H -4500 4536 50  0000 C CNN
+F 2 "" V -4500 4650 50  0001 C CNN
+F 3 "~" V -4500 4650 50  0001 C CNN
+	1    -4500 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FCF
+P -3650 4650
+F 0 "D?" H -3650 4445 50  0000 C CNN
+F 1 "D_Small" H -3650 4536 50  0000 C CNN
+F 2 "" V -3650 4650 50  0001 C CNN
+F 3 "~" V -3650 4650 50  0001 C CNN
+	1    -3650 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FD5
+P -2800 4650
+F 0 "D?" H -2800 4445 50  0000 C CNN
+F 1 "D_Small" H -2800 4536 50  0000 C CNN
+F 2 "" V -2800 4650 50  0001 C CNN
+F 3 "~" V -2800 4650 50  0001 C CNN
+	1    -2800 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FDB
+P -1950 4650
+F 0 "D?" H -1950 4445 50  0000 C CNN
+F 1 "D_Small" H -1950 4536 50  0000 C CNN
+F 2 "" V -1950 4650 50  0001 C CNN
+F 3 "~" V -1950 4650 50  0001 C CNN
+	1    -1950 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64118FE1
+P -1100 4650
+F 0 "D?" H -1100 4445 50  0000 C CNN
+F 1 "D_Small" H -1100 4536 50  0000 C CNN
+F 2 "" V -1100 4650 50  0001 C CNN
+F 3 "~" V -1100 4650 50  0001 C CNN
+	1    -1100 4650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	-6600 4650 -6300 4650
+Wire Wire Line
+	-6100 4650 -5800 4650
+Wire Wire Line
+	-5250 4650 -4900 4650
+Wire Wire Line
+	-4400 4650 -4050 4650
+Wire Wire Line
+	-3550 4650 -3200 4650
+Wire Wire Line
+	-2700 4650 -2350 4650
+Wire Wire Line
+	-1850 4650 -1500 4650
+Connection ~ -5800 4650
+Wire Wire Line
+	-5800 4650 -5450 4650
+Connection ~ -4900 4650
+Wire Wire Line
+	-4900 4650 -4600 4650
+Connection ~ -4050 4650
+Wire Wire Line
+	-4050 4650 -3750 4650
+Connection ~ -3200 4650
+Wire Wire Line
+	-3200 4650 -2900 4650
+Connection ~ -2350 4650
+Wire Wire Line
+	-2350 4650 -2050 4650
+Connection ~ -1500 4650
+Wire Wire Line
+	-1500 4650 -1200 4650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F677
+P -6550 5000
+F 0 "MX?" H -6517 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -6517 5149 20  0000 C CNN
+F 2 "" H -7175 4975 60  0001 C CNN
+F 3 "" H -7175 4975 60  0001 C CNN
+	1    -6550 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F67D
+P -5750 5000
+F 0 "MX?" H -5717 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -5717 5149 20  0000 C CNN
+F 2 "" H -6375 4975 60  0001 C CNN
+F 3 "" H -6375 4975 60  0001 C CNN
+	1    -5750 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F683
+P -4850 5000
+F 0 "MX?" H -4817 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -4817 5149 20  0000 C CNN
+F 2 "" H -5475 4975 60  0001 C CNN
+F 3 "" H -5475 4975 60  0001 C CNN
+	1    -4850 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F689
+P -4000 5000
+F 0 "MX?" H -3967 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -3967 5149 20  0000 C CNN
+F 2 "" H -4625 4975 60  0001 C CNN
+F 3 "" H -4625 4975 60  0001 C CNN
+	1    -4000 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F68F
+P -3150 5000
+F 0 "MX?" H -3117 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -3117 5149 20  0000 C CNN
+F 2 "" H -3775 4975 60  0001 C CNN
+F 3 "" H -3775 4975 60  0001 C CNN
+	1    -3150 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F695
+P -2300 5000
+F 0 "MX?" H -2267 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -2267 5149 20  0000 C CNN
+F 2 "" H -2925 4975 60  0001 C CNN
+F 3 "" H -2925 4975 60  0001 C CNN
+	1    -2300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F69B
+P -1450 5000
+F 0 "MX?" H -1417 5223 60  0000 C CNN
+F 1 "MX-NoLED" H -1417 5149 20  0000 C CNN
+F 2 "" H -2075 4975 60  0001 C CNN
+F 3 "" H -2075 4975 60  0001 C CNN
+	1    -1450 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6A1
+P -6200 5150
+F 0 "D?" H -6200 4945 50  0000 C CNN
+F 1 "D_Small" H -6200 5036 50  0000 C CNN
+F 2 "" V -6200 5150 50  0001 C CNN
+F 3 "~" V -6200 5150 50  0001 C CNN
+	1    -6200 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6A7
+P -5350 5150
+F 0 "D?" H -5350 4945 50  0000 C CNN
+F 1 "D_Small" H -5350 5036 50  0000 C CNN
+F 2 "" V -5350 5150 50  0001 C CNN
+F 3 "~" V -5350 5150 50  0001 C CNN
+	1    -5350 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6AD
+P -4500 5150
+F 0 "D?" H -4500 4945 50  0000 C CNN
+F 1 "D_Small" H -4500 5036 50  0000 C CNN
+F 2 "" V -4500 5150 50  0001 C CNN
+F 3 "~" V -4500 5150 50  0001 C CNN
+	1    -4500 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6B3
+P -3650 5150
+F 0 "D?" H -3650 4945 50  0000 C CNN
+F 1 "D_Small" H -3650 5036 50  0000 C CNN
+F 2 "" V -3650 5150 50  0001 C CNN
+F 3 "~" V -3650 5150 50  0001 C CNN
+	1    -3650 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6B9
+P -2800 5150
+F 0 "D?" H -2800 4945 50  0000 C CNN
+F 1 "D_Small" H -2800 5036 50  0000 C CNN
+F 2 "" V -2800 5150 50  0001 C CNN
+F 3 "~" V -2800 5150 50  0001 C CNN
+	1    -2800 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6BF
+P -1950 5150
+F 0 "D?" H -1950 4945 50  0000 C CNN
+F 1 "D_Small" H -1950 5036 50  0000 C CNN
+F 2 "" V -1950 5150 50  0001 C CNN
+F 3 "~" V -1950 5150 50  0001 C CNN
+	1    -1950 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F6C5
+P -1100 5150
+F 0 "D?" H -1100 4945 50  0000 C CNN
+F 1 "D_Small" H -1100 5036 50  0000 C CNN
+F 2 "" V -1100 5150 50  0001 C CNN
+F 3 "~" V -1100 5150 50  0001 C CNN
+	1    -1100 5150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	-6600 5150 -6300 5150
+Wire Wire Line
+	-6100 5150 -5800 5150
+Wire Wire Line
+	-5250 5150 -4900 5150
+Wire Wire Line
+	-4400 5150 -4050 5150
+Wire Wire Line
+	-3550 5150 -3200 5150
+Wire Wire Line
+	-2700 5150 -2350 5150
+Wire Wire Line
+	-1850 5150 -1500 5150
+Connection ~ -5800 5150
+Wire Wire Line
+	-5800 5150 -5450 5150
+Connection ~ -4900 5150
+Wire Wire Line
+	-4900 5150 -4600 5150
+Connection ~ -4050 5150
+Wire Wire Line
+	-4050 5150 -3750 5150
+Connection ~ -3200 5150
+Wire Wire Line
+	-3200 5150 -2900 5150
+Connection ~ -2350 5150
+Wire Wire Line
+	-2350 5150 -2050 5150
+Connection ~ -1500 5150
+Wire Wire Line
+	-1500 5150 -1200 5150
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6DE
+P -6550 5500
+F 0 "MX?" H -6517 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -6517 5649 20  0000 C CNN
+F 2 "" H -7175 5475 60  0001 C CNN
+F 3 "" H -7175 5475 60  0001 C CNN
+	1    -6550 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6E4
+P -5750 5500
+F 0 "MX?" H -5717 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -5717 5649 20  0000 C CNN
+F 2 "" H -6375 5475 60  0001 C CNN
+F 3 "" H -6375 5475 60  0001 C CNN
+	1    -5750 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6EA
+P -4850 5500
+F 0 "MX?" H -4817 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -4817 5649 20  0000 C CNN
+F 2 "" H -5475 5475 60  0001 C CNN
+F 3 "" H -5475 5475 60  0001 C CNN
+	1    -4850 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6F0
+P -4000 5500
+F 0 "MX?" H -3967 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -3967 5649 20  0000 C CNN
+F 2 "" H -4625 5475 60  0001 C CNN
+F 3 "" H -4625 5475 60  0001 C CNN
+	1    -4000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6F6
+P -3150 5500
+F 0 "MX?" H -3117 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -3117 5649 20  0000 C CNN
+F 2 "" H -3775 5475 60  0001 C CNN
+F 3 "" H -3775 5475 60  0001 C CNN
+	1    -3150 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F6FC
+P -2300 5500
+F 0 "MX?" H -2267 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -2267 5649 20  0000 C CNN
+F 2 "" H -2925 5475 60  0001 C CNN
+F 3 "" H -2925 5475 60  0001 C CNN
+	1    -2300 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6418F702
+P -1450 5500
+F 0 "MX?" H -1417 5723 60  0000 C CNN
+F 1 "MX-NoLED" H -1417 5649 20  0000 C CNN
+F 2 "" H -2075 5475 60  0001 C CNN
+F 3 "" H -2075 5475 60  0001 C CNN
+	1    -1450 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F708
+P -6200 5650
+F 0 "D?" H -6200 5445 50  0000 C CNN
+F 1 "D_Small" H -6200 5536 50  0000 C CNN
+F 2 "" V -6200 5650 50  0001 C CNN
+F 3 "~" V -6200 5650 50  0001 C CNN
+	1    -6200 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F70E
+P -5350 5650
+F 0 "D?" H -5350 5445 50  0000 C CNN
+F 1 "D_Small" H -5350 5536 50  0000 C CNN
+F 2 "" V -5350 5650 50  0001 C CNN
+F 3 "~" V -5350 5650 50  0001 C CNN
+	1    -5350 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F714
+P -4500 5650
+F 0 "D?" H -4500 5445 50  0000 C CNN
+F 1 "D_Small" H -4500 5536 50  0000 C CNN
+F 2 "" V -4500 5650 50  0001 C CNN
+F 3 "~" V -4500 5650 50  0001 C CNN
+	1    -4500 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F71A
+P -3650 5650
+F 0 "D?" H -3650 5445 50  0000 C CNN
+F 1 "D_Small" H -3650 5536 50  0000 C CNN
+F 2 "" V -3650 5650 50  0001 C CNN
+F 3 "~" V -3650 5650 50  0001 C CNN
+	1    -3650 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F720
+P -2800 5650
+F 0 "D?" H -2800 5445 50  0000 C CNN
+F 1 "D_Small" H -2800 5536 50  0000 C CNN
+F 2 "" V -2800 5650 50  0001 C CNN
+F 3 "~" V -2800 5650 50  0001 C CNN
+	1    -2800 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F726
+P -1950 5650
+F 0 "D?" H -1950 5445 50  0000 C CNN
+F 1 "D_Small" H -1950 5536 50  0000 C CNN
+F 2 "" V -1950 5650 50  0001 C CNN
+F 3 "~" V -1950 5650 50  0001 C CNN
+	1    -1950 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6418F72C
+P -1100 5650
+F 0 "D?" H -1100 5445 50  0000 C CNN
+F 1 "D_Small" H -1100 5536 50  0000 C CNN
+F 2 "" V -1100 5650 50  0001 C CNN
+F 3 "~" V -1100 5650 50  0001 C CNN
+	1    -1100 5650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	-6600 5650 -6300 5650
+Wire Wire Line
+	-6100 5650 -5800 5650
+Wire Wire Line
+	-5250 5650 -4900 5650
+Wire Wire Line
+	-4400 5650 -4050 5650
+Wire Wire Line
+	-3550 5650 -3200 5650
+Wire Wire Line
+	-2700 5650 -2350 5650
+Wire Wire Line
+	-1850 5650 -1500 5650
+Connection ~ -5800 5650
+Wire Wire Line
+	-5800 5650 -5450 5650
+Connection ~ -4900 5650
+Wire Wire Line
+	-4900 5650 -4600 5650
+Connection ~ -4050 5650
+Wire Wire Line
+	-4050 5650 -3750 5650
+Connection ~ -3200 5650
+Wire Wire Line
+	-3200 5650 -2900 5650
+Connection ~ -2350 5650
+Wire Wire Line
+	-2350 5650 -2050 5650
+Connection ~ -1500 5650
+Wire Wire Line
+	-1500 5650 -1200 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7A5
+P -6550 6000
+F 0 "MX?" H -6517 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -6517 6149 20  0000 C CNN
+F 2 "" H -7175 5975 60  0001 C CNN
+F 3 "" H -7175 5975 60  0001 C CNN
+	1    -6550 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7AB
+P -5750 6000
+F 0 "MX?" H -5717 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -5717 6149 20  0000 C CNN
+F 2 "" H -6375 5975 60  0001 C CNN
+F 3 "" H -6375 5975 60  0001 C CNN
+	1    -5750 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7B1
+P -4850 6000
+F 0 "MX?" H -4817 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -4817 6149 20  0000 C CNN
+F 2 "" H -5475 5975 60  0001 C CNN
+F 3 "" H -5475 5975 60  0001 C CNN
+	1    -4850 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7B7
+P -4000 6000
+F 0 "MX?" H -3967 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -3967 6149 20  0000 C CNN
+F 2 "" H -4625 5975 60  0001 C CNN
+F 3 "" H -4625 5975 60  0001 C CNN
+	1    -4000 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7BD
+P -3150 6000
+F 0 "MX?" H -3117 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -3117 6149 20  0000 C CNN
+F 2 "" H -3775 5975 60  0001 C CNN
+F 3 "" H -3775 5975 60  0001 C CNN
+	1    -3150 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7C3
+P -2300 6000
+F 0 "MX?" H -2267 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -2267 6149 20  0000 C CNN
+F 2 "" H -2925 5975 60  0001 C CNN
+F 3 "" H -2925 5975 60  0001 C CNN
+	1    -2300 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 641AA7C9
+P -1450 6000
+F 0 "MX?" H -1417 6223 60  0000 C CNN
+F 1 "MX-NoLED" H -1417 6149 20  0000 C CNN
+F 2 "" H -2075 5975 60  0001 C CNN
+F 3 "" H -2075 5975 60  0001 C CNN
+	1    -1450 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7CF
+P -6200 6150
+F 0 "D?" H -6200 5945 50  0000 C CNN
+F 1 "D_Small" H -6200 6036 50  0000 C CNN
+F 2 "" V -6200 6150 50  0001 C CNN
+F 3 "~" V -6200 6150 50  0001 C CNN
+	1    -6200 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7D5
+P -5350 6150
+F 0 "D?" H -5350 5945 50  0000 C CNN
+F 1 "D_Small" H -5350 6036 50  0000 C CNN
+F 2 "" V -5350 6150 50  0001 C CNN
+F 3 "~" V -5350 6150 50  0001 C CNN
+	1    -5350 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7DB
+P -4500 6150
+F 0 "D?" H -4500 5945 50  0000 C CNN
+F 1 "D_Small" H -4500 6036 50  0000 C CNN
+F 2 "" V -4500 6150 50  0001 C CNN
+F 3 "~" V -4500 6150 50  0001 C CNN
+	1    -4500 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7E1
+P -3650 6150
+F 0 "D?" H -3650 5945 50  0000 C CNN
+F 1 "D_Small" H -3650 6036 50  0000 C CNN
+F 2 "" V -3650 6150 50  0001 C CNN
+F 3 "~" V -3650 6150 50  0001 C CNN
+	1    -3650 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7E7
+P -2800 6150
+F 0 "D?" H -2800 5945 50  0000 C CNN
+F 1 "D_Small" H -2800 6036 50  0000 C CNN
+F 2 "" V -2800 6150 50  0001 C CNN
+F 3 "~" V -2800 6150 50  0001 C CNN
+	1    -2800 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7ED
+P -1950 6150
+F 0 "D?" H -1950 5945 50  0000 C CNN
+F 1 "D_Small" H -1950 6036 50  0000 C CNN
+F 2 "" V -1950 6150 50  0001 C CNN
+F 3 "~" V -1950 6150 50  0001 C CNN
+	1    -1950 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 641AA7F3
+P -1100 6150
+F 0 "D?" H -1100 5945 50  0000 C CNN
+F 1 "D_Small" H -1100 6036 50  0000 C CNN
+F 2 "" V -1100 6150 50  0001 C CNN
+F 3 "~" V -1100 6150 50  0001 C CNN
+	1    -1100 6150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	-6600 6150 -6300 6150
+Wire Wire Line
+	-6100 6150 -5800 6150
+Wire Wire Line
+	-5250 6150 -4900 6150
+Wire Wire Line
+	-4400 6150 -4050 6150
+Wire Wire Line
+	-3550 6150 -3200 6150
+Wire Wire Line
+	-2700 6150 -2350 6150
+Wire Wire Line
+	-1850 6150 -1500 6150
+Connection ~ -5800 6150
+Wire Wire Line
+	-5800 6150 -5450 6150
+Connection ~ -4900 6150
+Wire Wire Line
+	-4900 6150 -4600 6150
+Connection ~ -4050 6150
+Wire Wire Line
+	-4050 6150 -3750 6150
+Connection ~ -3200 6150
+Wire Wire Line
+	-3200 6150 -2900 6150
+Connection ~ -2350 6150
+Wire Wire Line
+	-2350 6150 -2050 6150
+Connection ~ -1500 6150
+Wire Wire Line
+	-1500 6150 -1200 6150
+Wire Wire Line
+	-6400 3950 -6400 4450
+Connection ~ -6400 4450
+Wire Wire Line
+	-6400 4450 -6400 4950
+Connection ~ -6400 4950
+Wire Wire Line
+	-6400 4950 -6400 5450
+Connection ~ -6400 5450
+Wire Wire Line
+	-6400 5450 -6400 5950
+Wire Wire Line
+	-5600 3950 -5600 4450
+Connection ~ -5600 4450
+Wire Wire Line
+	-5600 4450 -5600 4950
+Connection ~ -5600 4950
+Wire Wire Line
+	-5600 4950 -5600 5450
+Connection ~ -5600 5450
+Wire Wire Line
+	-5600 5450 -5600 5950
+Wire Wire Line
+	-4700 3950 -4700 4450
+Connection ~ -4700 4450
+Wire Wire Line
+	-4700 4450 -4700 4950
+Connection ~ -4700 4950
+Wire Wire Line
+	-4700 4950 -4700 5450
+Connection ~ -4700 5450
+Wire Wire Line
+	-4700 5450 -4700 5950
+Wire Wire Line
+	-3850 5950 -3850 5450
+Connection ~ -3850 4450
+Wire Wire Line
+	-3850 4450 -3850 3950
+Connection ~ -3850 4950
+Wire Wire Line
+	-3850 4950 -3850 4450
+Connection ~ -3850 5450
+Wire Wire Line
+	-3850 5450 -3850 4950
+Wire Wire Line
+	-3000 3950 -3000 4450
+Connection ~ -3000 4450
+Wire Wire Line
+	-3000 4450 -3000 4950
+Connection ~ -3000 4950
+Wire Wire Line
+	-3000 4950 -3000 5450
+Connection ~ -3000 5450
+Wire Wire Line
+	-3000 5450 -3000 5950
+Wire Wire Line
+	-2150 5950 -2150 5450
+Connection ~ -2150 4450
+Wire Wire Line
+	-2150 4450 -2150 3950
+Connection ~ -2150 4950
+Wire Wire Line
+	-2150 4950 -2150 4450
+Connection ~ -2150 5450
+Wire Wire Line
+	-2150 5450 -2150 4950
+Wire Wire Line
+	-1300 3950 -1300 4450
+Connection ~ -1300 4450
+Wire Wire Line
+	-1300 4450 -1300 4950
+Connection ~ -1300 4950
+Wire Wire Line
+	-1300 4950 -1300 5450
+Connection ~ -1300 5450
+Wire Wire Line
+	-1300 5450 -1300 5950
 $EndSCHEMATC
